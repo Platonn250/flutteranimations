@@ -21,7 +21,7 @@ class Page1 extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Page 1",
+                "Home Deleivery🌭",
                 style: GoogleFonts.bebasNeue(
                   fontSize: 50,
                 ),
@@ -37,6 +37,7 @@ class Page1 extends StatelessWidget {
                       'https://assets2.lottiefiles.com/packages/lf20_mdiaxdju.json'),
                 ]),
               ),
+              Text("CC PlatonCodes")
             ],
           ),
         ),

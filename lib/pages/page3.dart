@@ -22,7 +22,7 @@ class Page3 extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Page 3",
+                "High Fucntioning🎡",
                 style: GoogleFonts.bebasNeue(
                   fontSize: 50,
                 ),
@@ -34,6 +34,10 @@ class Page3 extends StatelessWidget {
                       'https://assets2.lottiefiles.com/packages/lf20_q77jpumk.json'),
                 ]),
               ),
+              SizedBox(
+                height: 50,
+              ),
+              Text("CC PlatonCodes")
             ],
           ),
         ),

@@ -22,7 +22,7 @@ class Page2 extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Page 2",
+                "High Speed🔥",
                 style: GoogleFonts.bebasNeue(
                   fontSize: 50,
                 ),
@@ -34,6 +34,7 @@ class Page2 extends StatelessWidget {
                       'https://assets2.lottiefiles.com/packages/lf20_8ptubsmp.json'),
                 ]),
               ),
+              Text("CC PlatonCodes")
             ],
           ),
         ),
